@@ -22,8 +22,8 @@ h1 {
 }
 
 .board {
-  border: 1rem solid #ff652f;
-  background: #ff652f;
+  border: 1rem solid #2f89ff;
+  background: #2f89ff;
   width: 500px;
   height: 500px;
   display: grid;
